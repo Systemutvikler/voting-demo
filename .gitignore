@@ -57,3 +57,6 @@ target/
 
 result-app/node_modules
 tutum.*.yml
+
+# VS2017 settings
+.vs/
